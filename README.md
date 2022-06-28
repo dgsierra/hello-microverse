@@ -12,7 +12,10 @@
 
 ## Getting Started
 
-Just need to download all the files and open them in your web browser.
+>Click the Code button in the top right corner
+>Download ZIP
+>Unzip the file: hello-microverse.zip
+>Open index.html
 
 ## Authors
 
